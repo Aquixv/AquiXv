@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi, I'm [AquiXV] 👋
 
+I'm a Full-Stack Web Development student currently leveling up my skills in modern web technology.
+
+- 🛠️ **Currently working with:** React, Node.js, and Express.
+- 📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next).
+- 🎯 **Goal:** Building scalable, clean, and efficient web applications.
+
+[Link to LinkedIn] | [Link to Portfolio/Blog]
 <!--
 **Aquixv/AquiXv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
