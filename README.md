@@ -1,4 +1,4 @@
-# Hi, I'm [AquiXV] 👋
+# Hi, I'm AquiXv 👋
 
 I'm a Full-Stack Web Development & Computer Science student currently leveling up my skills in modern web technology.
 
@@ -13,6 +13,7 @@ I'm a Full-Stack Web Development & Computer Science student currently leveling u
   🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
 https://www.linkedin.com/in/aquiixv 
+
 [Link to Portfolio in a bit]
 <!--
 **Aquixv/AquiXv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
