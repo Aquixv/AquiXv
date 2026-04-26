@@ -8,13 +8,15 @@ I'm a Full-Stack Web Development & Computer Science student currently leveling u
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
 
-  📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next15).
+📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next15).
   
-  🎯 **Goal:** Building scalable, clean, and efficient web applications.
+🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
 https://www.linkedin.com/in/aquiixv 
 
-[Link to Portfolio in a bit]
+**Check out my E-commerce startup**: https://Popcart-seven.vercel.app
+
+![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquiXv&layout=compact&theme=vision-heavy)
 <!--
 **Aquixv/AquiXv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
