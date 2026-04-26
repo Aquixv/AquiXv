@@ -2,11 +2,12 @@
 
 I'm a Full-Stack Web Development & Computer Science student currently leveling up my skills in modern web technology.
 
-  🛠️ **Currently working with:** React, Node.js, Express and MongoDB as my database.
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  🛠️ **Currently working with:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express-%23007ACC.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
+
   📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next15).
   🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
