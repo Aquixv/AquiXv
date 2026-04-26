@@ -9,6 +9,7 @@ I'm a Full-Stack Web Development & Computer Science student currently leveling u
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
 
   📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next15).
+  
   🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
 https://www.linkedin.com/in/aquiixv 
