@@ -6,13 +6,15 @@ I'm a Full-Stack Web Development & Computer Science student currently leveling u
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express](https://img.shields.io/badge/express-%23007ACC.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next15).
   
 🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
 https://www.linkedin.com/in/aquiixv 
+
+Email me at aquiontop@gmail.com
 
 **Check out my E-commerce startup**: https://Popcart-seven.vercel.app
 
