@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer & Computer Science student currently leveling up 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-📚 **Learning:**Backend Architecture (GraphQl, Next15).
+📚 **Learning:** Backend Architecture (GraphQl, Next15).
   
 🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
