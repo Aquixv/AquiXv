@@ -7,7 +7,7 @@ I'm a Full-Stack Web Development & Computer Science student currently leveling u
 ![Express](https://img.shields.io/badge/express-%23007ACC.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-%3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-%3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next15).
   
