@@ -19,7 +19,7 @@ Email me at aquiontop@gmail.com
 
 **Check out my E-commerce startup**: https://Popcart-seven.vercel.app
 
-![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
+![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
 <!--
 **Aquixv/AquiXv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
