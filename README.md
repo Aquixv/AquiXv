@@ -1,6 +1,6 @@
 # Hi, I'm AquiXv 👋
 
-I'm a Full-Stack Web Development & Computer Science student currently leveling up my skills in modern web technology.
+I'm a Full-Stack Web Developer & Computer Science student currently leveling up my skills in modern web technology.
 
   🛠️ **Currently working with:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -9,11 +9,12 @@ I'm a Full-Stack Web Development & Computer Science student currently leveling u
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-📚 **Learning:** TypeScript and Backend Architecture (GraphQl, Next15).
+📚 **Learning:**Backend Architecture (GraphQl, Next15).
   
 🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
-https://www.linkedin.com/in/aquiixv 
+**Follow me on**
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
 
 Email me at aquiontop@gmail.com
 
