@@ -1,6 +1,7 @@
 # Hi, I'm AquiXv 👋
 
 I'm a Full-Stack Web Developer & Computer Science student currently leveling up my skills in modern web technology.
+I build extensions and packages occasionally.
 
   🛠️ **Currently working with:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
