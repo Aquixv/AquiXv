@@ -4,7 +4,6 @@ I'm a Full-Stack Web Developer & Computer Science student currently leveling up 
 
 ### 📦 Open Source Contributions
 
-**[use-multi-select-hook](https://www.npmjs.com/package/use-multi-select-hook)** 
 *A lightweight, type-safe React hook for handling complex multi-select logic.*
 
 [![NPM Version](https://img.shields.io/npm/v/use-multi-select-hook?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/use-multi-select-hook)
