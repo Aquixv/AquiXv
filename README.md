@@ -2,7 +2,13 @@
 
 I'm a Full-Stack Web Developer & Computer Science student currently leveling up my skills in modern web technology.
 
-I also build extensions and packages occasionally.
+### 📦 Open Source Contributions
+
+**[use-multi-select-hook](https://www.npmjs.com/package/use-multi-select-hook)** 
+*A lightweight, type-safe React hook for handling complex multi-select logic.*
+
+[![NPM Version](https://img.shields.io/npm/v/use-multi-select-hook?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/use-multi-select-hook)
+[![NPM Downloads](https://img.shields.io/npm/dt/use-multi-select-hook?style=for-the-badge&color=28a745)](https://www.npmjs.com/package/use-multi-select-hook)
 
   🛠️ **Currently working with:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
