@@ -29,7 +29,7 @@ Email me at aquiontop@gmail.com
 ![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
 
 
-**Out due to technical fixes**
+**Out due to technical difficulties**
 
-May be a while before I return, but I'll keep a daily log down here:
+May be a while before I return, but I'll keep a log down here:
 **Day 1**
