@@ -34,4 +34,5 @@ Email me at aquiontop@gmail.com
 May be a while before I return, but I'll keep a log down here:
 
 **Day 1**
+
 **Day 2**
