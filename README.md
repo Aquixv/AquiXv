@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer & Computer Science student currently leveling up my skills in modern web technology.
 
-### 📦 Open Source Contributions:
+### 📦 Open Source Contributions
 **use-multi-select**: *A lightweight, type-safe React hook for handling complex multi-select logic.*
 
 [![NPM Version](https://img.shields.io/npm/v/use-multi-select-hook?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/use-multi-select-hook)
@@ -32,4 +32,6 @@ Email me at aquiontop@gmail.com
 **Out due to technical difficulties**
 
 May be a while before I return, but I'll keep a log down here:
+
 **Day 1**
+**Day 2**
