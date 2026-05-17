@@ -43,4 +43,5 @@ May be a while before I return, but I'll keep a log down here:
 
 **Day 5 🥲**
 
-**Day 6 (final?)**
+**Day 6 **
+**Day 7 smh**
