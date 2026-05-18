@@ -41,7 +41,10 @@ May be a while before I return, but I'll keep a log down here:
 
 **Day 4**
 
-**Day 5 🥲**
+**Day 5**
 
-**Day 6 **
-**Day 7 smh**
+**Day 6**
+
+**Day 7**
+
+**Hard drive failure again smh, still out, Day 8** 
