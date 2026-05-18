@@ -47,4 +47,4 @@ May be a while before I return, but I'll keep a log down here:
 
 **Day 7**
 
-**Hard drive failure again smh, still out, Day 8** 
+**New Hard drive failure, Day 8** 
