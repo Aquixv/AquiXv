@@ -29,22 +29,4 @@ Email me at aquiontop@gmail.com
 ![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
 
 
-**Out due to technical difficulties**
-
-May be a while before I return, but I'll keep a log down here:
-
-**Day 1**
-
-**Day 2**
-
-**Day 3**
-
-**Day 4**
-
-**Day 5**
-
-**Day 6**
-
-**Day 7**
-
-**New Hard drive failure, Day 8** 
+**inactive due to technical difficulties**
