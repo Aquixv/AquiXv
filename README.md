@@ -28,4 +28,3 @@ Email me at aquiontop@gmail.com
 
 ![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
 
-**On an Exam Induced hiatus .**
