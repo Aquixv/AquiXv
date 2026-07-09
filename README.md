@@ -24,7 +24,7 @@ I'm a Full-Stack Web Developer & Computer Science student currently leveling up 
 
 Email me at aquiontop@gmail.com
 
-**Check out my E-commerce startup**: https://Popcart-seven.vercel.app
+**Check out my E-commerce startup demo**: https://Popcart-seven.vercel.app
 
 ![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
 
