@@ -1,6 +1,6 @@
 # Hi, I'm AquiXv 👋
 
-I'm a Full-Stack Web Developer & Computer Science student currently leveling up my skills in modern web technology.
+I'm a Full-Stack Web Developer & Computer Science student.
 
 ### 📦 Open Source Contributions
 **use-multi-select**: *A lightweight, type-safe React hook for handling complex multi-select logic.*
@@ -14,12 +14,13 @@ I'm a Full-Stack Web Developer & Computer Science student currently leveling up 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 📚 **Learning:** Backend Architecture (Next15).
   
 🎯 **Goal:** Building scalable, clean, and efficient web applications.
 
-**Follow me on**
+**Platforms**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
 
 Email me at aquiontop@gmail.com
