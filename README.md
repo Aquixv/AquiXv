@@ -1,6 +1,6 @@
 # Hi, I'm AquiXv 👋
 
-I'm a Full-Stack Web Developer & Computer Science student.
+A Full-Stack Web Developer.
 
 ### Open Source Contributions
 **use-multi-select**: *A lightweight, type-safe React hook for handling complex multi-select logic.*
@@ -18,14 +18,14 @@ I'm a Full-Stack Web Developer & Computer Science student.
 
 **Learning:** Backend Architecture (Next15).
   
-**Goal:** Building scalable, clean, and efficient web applications.
+**Goal:** Building scalable, optimized, and very efficient web applications.
 
 **Platforms**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
 
 Email me at aquiontop@gmail.com
 
-**Check out my E-commerce startup demo**: https://popcart-remastered.vercel.app
+**Check out my E-commerce startup demo at**: https://popcart-remastered.vercel.app
 
 ![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
 
