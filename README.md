@@ -25,7 +25,7 @@ A Full-Stack Web Developer.
 
 Email me at aquiontop@gmail.com
 
-**Check out my E-commerce startup demo at**: https://popcart-remastered.vercel.app
+**Check out my E-commerce startup demo at** https://popcart-remastered.vercel.app
 
 ![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
 
