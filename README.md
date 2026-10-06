@@ -23,7 +23,7 @@ A Full-Stack Web Developer.
 **Platforms**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
 
-Email me at aquiontop@gmail.com
+Email me at oa.alamu.dev@gmail.com
 
 **Check out my E-commerce startup demo at** https://popcart-remastered.vercel.app
 
