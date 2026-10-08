@@ -13,13 +13,11 @@
 
 <br />
 
-🛠️ Tech Stack
 <details open>
-  <summary><b>Click to toggle</b></summary>
   <br />
   <b>Frontend</b><br />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -43,26 +41,6 @@
       <img src="https://img.shields.io/npm/v/use-multi-select?color=red" />
       <img src="https://img.shields.io/npm/dt/use-multi-select?color=green" />
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://popcart-remastered.vercel.app">PopCart E-Commerce</a></b><br/>
-      A startup demo featuring an Apollo GraphQL API, Google OAuth integration, and customized brand profile views.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>EduPortal</b><br/>
-      A university portal handling course registrations, dynamic fee structures, and manual bank transfer verifications.
-    </td>
-    <td width="50%" valign="top">
-      <b>CleanStart Box</b><br/>
-      An administrative web dashboard utilizing Firebase authentication for secure user management.
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquiXv&layout=compact&theme=radical" alt="AquiXv's Top Languages" />
 </div>
