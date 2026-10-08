@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm AquiXv 👋</h1>
-  <p><b>Full-Stack Web Developer | React & Node.js Enthusiast</b></p>
+  <p><b>Full-Stack Web Developer | Specializing in React & Node.js </b></p>
   <p>Building scalable, optimized, and highly efficient web applications.</p>
 
   <a href="https://linkedin.com/in/aquiixv">
@@ -13,13 +13,7 @@
 
 <br />
 
-## 🚀 About Me
-- 🌍 Based in Ogbomosho, Nigeria
-- 🎓 Building backend services, web applications, and browser extensions
-- 💻 Honing my skills in **Next.js 15, TypeScript, and GraphQL**
-- 🤝 Open to collaborating on open-source projects and freelance web development
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 <details open>
   <summary><b>Click to toggle</b></summary>
   <br />
