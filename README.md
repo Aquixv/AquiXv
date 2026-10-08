@@ -20,7 +20,6 @@ A Full-Stack Web Developer.
   
 **Goal:** Building scalable, optimized, and very efficient web applications.
 
-**Platforms**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
 
 Email me at oa.alamu.dev@gmail.com
