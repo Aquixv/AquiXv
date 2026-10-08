@@ -1,28 +1,74 @@
-# Hi, I'm AquiXv 👋
+<div align="center">
+  <h1>Hi, I'm AquiXv 👋</h1>
+  <p><b>Full-Stack Web Developer | React & Node.js Enthusiast</b></p>
+  <p>Building scalable, optimized, and highly efficient web applications.</p>
 
-A Full-Stack Web Developer.
+  <a href="https://linkedin.com/in/aquiixv">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oa.alamu.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-### Open Source Contributions
-**use-multi-select**: *A lightweight, type-safe React hook for handling complex multi-select logic.*
+<br />
 
-[![NPM Version](https://img.shields.io/npm/v/use-multi-select-hook?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/use-multi-select-hook)
-[![NPM Downloads](https://img.shields.io/npm/dt/use-multi-select-hook?style=for-the-badge&color=28a745)](https://www.npmjs.com/package/use-multi-select-hook)
+## 🚀 About Me
+- 🌍 Based in Ogbomosho, Nigeria
+- 🎓 Building backend services, web applications, and browser extensions
+- 💻 Honing my skills in **Next.js 15, TypeScript, and GraphQL**
+- 🤝 Open to collaborating on open-source projects and freelance web development
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express](https://img.shields.io/badge/express-%23007ACC.svg?style=for-the-badge&logo=express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-  
-**Goal:** Building scalable, optimized, and very efficient web applications.
+## 🛠️ Tech Stack
+<details open>
+  <summary><b>Click to toggle</b></summary>
+  <br />
+  <b>Frontend</b><br />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <br /><br />
+  <b>Backend & Tools</b><br />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+</details>
 
-**Platforms**
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
+<br />
 
-Email me at oa.alamu.dev@gmail.com
+## 📦 Projects & Open Source
 
-**Check out my E-commerce startup demo at** https://popcart-remastered.vercel.app
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://npmjs.com/package/use-multi-select">use-multi-select</a></b> (NPM Package)<br/>
+      A lightweight, type-safe React hook for handling complex multi-select logic.<br/><br/>
+      <img src="https://img.shields.io/npm/v/use-multi-select?color=red" />
+      <img src="https://img.shields.io/npm/dt/use-multi-select?color=green" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://popcart-remastered.vercel.app">PopCart E-Commerce</a></b><br/>
+      A startup demo featuring an Apollo GraphQL API, Google OAuth integration, and customized brand profile views.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>EduPortal</b><br/>
+      A university portal handling course registrations, dynamic fee structures, and manual bank transfer verifications.
+    </td>
+    <td width="50%" valign="top">
+      <b>CleanStart Box</b><br/>
+      An administrative web dashboard utilizing Firebase authentication for secure user management.
+    </td>
+  </tr>
+</table>
 
-![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
+<br />
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquiXv&layout=compact&theme=radical" alt="AquiXv's Top Languages" />
+</div>
