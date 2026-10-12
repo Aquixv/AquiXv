@@ -1,6 +1,6 @@
 # Hi, I'm AquiXv 👋
 
-A Full-Stack Web Developer working with MERN, Typescript and GraphQl.
+A Full-Stack Web Developer working with MERN, Typescript,GraphQL and NextJS15.
 
 ### Open Source Contributions
 **use-multi-select**: *A lightweight, type-safe React hook for handling complex multi-select logic.*
