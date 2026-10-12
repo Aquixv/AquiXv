@@ -1,12 +1,15 @@
 # Hi, I'm AquiXv 👋
 
-A Full-Stack Web Developer working with MERN, Typescript,GraphQL and NextJS15.
+A Full-Stack Web Developer working with MERN, TypeScript, GraphQL, and NextJS15.
 
-### Open Source Contributions
-**use-multi-select**: *A lightweight, type-safe React hook for handling complex multi-select logic.*
+**Goal:** Building scalable, optimized, and very efficient web applications.
 
-[![NPM Version](https://img.shields.io/npm/v/use-multi-select-hook?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/use-multi-select-hook)
-[![NPM Downloads](https://img.shields.io/npm/dt/use-multi-select-hook?style=for-the-badge&color=28a745)](https://www.npmjs.com/package/use-multi-select-hook)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa.alamu.dev@gmail.com)
+
+---
+
+### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,12 +20,22 @@ A Full-Stack Web Developer working with MERN, Typescript,GraphQL and NextJS15.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-  
-**Goal:** Building scalable, optimized, and very efficient web applications.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aquiixv)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa.alamu.dev@gmail.com)
+---
 
-**Check out my E-commerce startup demo at** https://popcart-remastered.vercel.app
+### 🚀 Featured Work
+
+**🛍️ PopCart E-commerce Startup**
+Check out my live demo at: https://popcart-remastered.vercel.app
+
+**📦 Open Source: `use-multi-select`**
+*A lightweight, type-safe React hook for handling complex multi-select logic.*
+
+[![NPM Version](https://img.shields.io/npm/v/use-multi-select-hook?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/use-multi-select-hook)
+[![NPM Downloads](https://img.shields.io/npm/dt/use-multi-select-hook?style=for-the-badge&color=28a745)](https://www.npmjs.com/package/use-multi-select-hook)
+
+---
+
+### 📊 GitHub Stats
 
 ![Your Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Aquixv&layout=compact&theme=radical)
